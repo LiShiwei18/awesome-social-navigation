@@ -1,9 +1,9 @@
 # Awesome Social Navigation 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Last Commit](https://img.shields.io/github/last-commit/rashid1844/awesome-social-navigation)](https://img.shields.io/github/last-commit/rashid1844/awesome-social-navigation)
-![GitHub stars](https://img.shields.io/github/stars/rashid1844/awesome-social-navigation.svg?style=social&label=Star)
-![GitHub contributors](https://img.shields.io/github/contributors/rashid1844/awesome-social-navigation.svg)
-![# of Papers](https://img.shields.io/badge/Num%20of%20Papers-143-brightgreen.svg)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![# of Papers](https://img.shields.io/badge/Num%20of%20Papers-143-AD8EA7.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/rashid1844/awesome-social-navigation.svg?style=flat&color=AD8EA7)
+![Last Commit](https://img.shields.io/github/last-commit/rashid1844/awesome-social-navigation?color=AD8EA7)
+![GitHub stars](https://img.shields.io/github/stars/rashid1844/awesome-social-navigation.svg?style=flat&color=AD8EA7)
 
 
 > A compiled list of social navigation resources.
