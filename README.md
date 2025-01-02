@@ -1,6 +1,9 @@
 # Awesome Social Navigation 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Last Commit](https://img.shields.io/github/last-commit/rashid1844/awesome-social-navigation)](https://img.shields.io/github/last-commit/rashid1844/awesome-social-navigation)
+![GitHub stars](https://img.shields.io/github/stars/rashid1844/awesome-social-navigation.svg?style=social&label=Star)
+![GitHub contributors](https://img.shields.io/github/contributors/rashid1844/awesome-social-navigation.svg)
+![# of Papers](https://img.shields.io/badge/Num%20of%20Papers-143-brightgreen.svg)
 
 
 > A compiled list of social navigation resources.
@@ -218,15 +221,6 @@ ICRA, 2020. [[Paper]](http://www.cs.cmu.edu/~./jeanoh/papers/TO-ICRA2020.pdf) [[
 
 
 
-
-
-
-
-
-
-
-
-
 ### <a name="human_pose"></a> Human-Pose Social Navigation
 
 * **Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning** <br>
@@ -289,17 +283,6 @@ IROS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/10341341/10341342/1034137
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ### <a name="human_attention"></a> Human-Attention Social Navigation
 
 * **Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning** <br>
@@ -330,23 +313,6 @@ IROS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/10341341/10341342/1034139
 * **Graph Relational Reinforcement Learning for Mobile Robot Navigation in Large-Scale Crowded Environments** <br>
 *Liu, Z., Zhai, Y., Li, J., Wang, G., Miao, Y. and Wang, H.* <br>
 IEEE T-ITS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/6979/10202228/10115223.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -385,12 +351,6 @@ IEEE ITSC, 2020. [[Paper]](https://arxiv.org/pdf/2011.11191)
 * **Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph** <br>
 *Liu, S., Chang, P., Huang, Z., Chakraborty, N., Hong, K., Liang, W., McPherson, D.L., Geng, J. and Driggs-Campbell, K.* <br>
 ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2203.01821) [[Code]](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph) [[Website]](https://sites.google.com/view/intention-aware-crowdnav/home) [[Video]](https://youtu.be/boDDQvZ1yV0?si=SdBnmCfjFbZ1xFro)
-
-
-
-
-
-
 
 
 
@@ -463,64 +423,6 @@ IROS, 2020. [[Paper]](http://ras.papercept.net/images/temp/IROS/files/1703.pdf) 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### <a name="vision_nav"></a> Vision Social Navigation
 
 
@@ -533,34 +435,6 @@ IEEE/CVF, 2023. [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/C
 * **From Cognition to Precognition: A Future-Aware Framework for Social Navigation** <br>
 *Gong, Z., Hu, T., Qiu, R. and Liang, J.* <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.13244) [[Code]](https://github.com/Zeying-Gong/Falcon) [[Website]](https://zeying-gong.github.io/projects/falcon/) [[Video]](https://youtu.be/elNI7XlRyvU?si=jHz_LnPMXnlo1Ehz)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -610,8 +484,6 @@ ECCV, 2022. [[Paper]](https://arxiv.org/pdf/2303.15334) [[Code]](https://github.
 
 
 
-
-
 ## <a name="prediction"></a> Human Prediction
 
 * **Social LSTM: Human Trajectory Prediction in Crowded Spaces** <br>
@@ -641,12 +513,6 @@ CVPR, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Pre
 * **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction** <br>
 *Mohamed, A., Qian, K., Elhoseiny, M. and Claudel, C.* <br>
 CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf) [[Code]](https://github.com/abduallahmohamed/Social-STGCNN)
-
-
-
-
-
-
 
 
 
@@ -797,15 +663,6 @@ CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_
 * **A2D2 Dataset** <br>
 *Geyer, J., Kassahun, Y., Mahmudi, M., Ricou, X., Durgesh, R., Chung, A.S., Hauswald, L., Pham, V.H., Mühlegg, M., Dorn, S. and Fernandez, T.* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2004.06320) [[Dataset]](https://www.a2d2.audi/a2d2/en/dataset.html) 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -988,24 +845,6 @@ Simulation, 2024, [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/0037549
 * **Vadere** <br>
 *Kleinmeier, B., Zönnchen, B., Gödel, M. and Köster, G.* <br>
 arXiv, 2019. [[Paper]](https://arxiv.org/pdf/1907.09520) [[Code]](https://github.com/learup/vadere) [[Website]](https://www.vadere.org/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
