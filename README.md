@@ -6,11 +6,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/rashid1844/awesome-social-navigation.svg?style=flat&color=AD8EA7)
 
 
-> A compiled list of social navigation resources.
+> A curated collection of resources on social navigation, including papers, code, and tools.
 
-By [Rashid Alyassi](ralyassi@ethz.ch), ETH Zurich. 
+Created and maintained by Rashid Alyassi ([ralyassi@ethz.ch](mailto:ralyassi@ethz.ch)), ETH Zurich.
 
-If you see papers missing from the list, please email me or submit a [request](#contributing).
+If you notice any missing papers or resources, feel free to email me or submit a [request](#contributing)
+
+
 
 ## Table of Contents
 
