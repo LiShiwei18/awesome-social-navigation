@@ -6,11 +6,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/rashid1844/awesome-social-navigation.svg?style=flat&color=AD8EA7)
 
 
-> A curated collection of resources on social navigation, including papers, code, and tools.
+> 📚 A curated collection of resources on social navigation, including papers, code, and tools.
 
-Created and maintained by Rashid Alyassi ([ralyassi@ethz.ch](mailto:ralyassi@ethz.ch)), ETH Zurich.
+👤Created and maintained by Rashid Alyassi ([ralyassi@ethz.ch](mailto:ralyassi@ethz.ch)), ETH Zurich.
 
-If you notice any missing papers or resources, feel free to email me or submit a [request](#contributing)
+📩 If you notice any missing papers or resources, feel free to email me or submit a [request](#contributing).
+
+📖 Resources are based on findings from our survey paper: ["Social Robot Navigation: A Review of Learning-Based Methods"](https://arxiv.org).
 
 
 
@@ -33,8 +35,11 @@ If you notice any missing papers or resources, feel free to email me or submit a
 * [Contributing](#contributing)
 
 
+<!-- ![Social Navigation Algorithms](/figs/socialnav_algos.png) -->
 
-![Social Navigation Algorithms](/figs/socialnav_algos.png)
+<p align="center">
+	<img src="/figs/socialnav_algos.png" alt="Social Navigation Algorithms" title="Social Navigation Algorithms" style="width:70%;" />
+</p>
 
 
 
