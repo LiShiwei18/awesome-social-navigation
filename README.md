@@ -1,6 +1,6 @@
 # Awesome Social Navigation 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![# of Papers](https://img.shields.io/badge/Num%20of%20Papers-143-AD8EA7.svg)
+![# of Papers](https://img.shields.io/badge/Num%20of%20Papers-147-AD8EA7.svg) <!-- Note: increment number "Papers-###-AD8EA7" after adding a paper -->
 ![GitHub contributors](https://img.shields.io/github/contributors/rashid1844/awesome-social-navigation.svg?style=flat&color=AD8EA7)
 ![Last Commit](https://img.shields.io/github/last-commit/rashid1844/awesome-social-navigation?color=AD8EA7)
 ![GitHub stars](https://img.shields.io/github/stars/rashid1844/awesome-social-navigation.svg?style=flat&color=AD8EA7)
@@ -20,12 +20,10 @@
 
 * [Social Navigation Methods](#methods)
 	* [End-to-End Social Navigation](#rawdata)
-	* [Imitation-Learning Social Navigation](#imitation)
-	* [Human-Pose Social Navigation](#human_pose)
+	* [Human-Position Social Navigation](#human_pose)
 	* [Human-Attention Social Navigation](#human_attention)
 	* [Human-Prediction Social Navigation](#human_prediction)
-	* [Safety Mechanism Social Navigation](#safety)
-	* [Vision Social Navigation](#vision_nav)
+	* [Safety-aware Social Navigation](#safety)
 	
 * [Human Tracking](#tracking)
 * [Human Prediction](#prediction)
@@ -158,18 +156,16 @@ arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2302.11434) [[Code]](https://github
 
 
 
+* **Exploiting Proximity-Aware Tasks for Embodied Social Navigation** <br>
+*Cancelli, E., Campari, T., Serafini, L., Chang, A.X. and Ballan, L.* <br>
+IEEE/CVF, 2023. [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf) [[Code]](https://github.com/EnricoCancelli/ProximitySocialNav) [[Video]](https://youtu.be/havP4HyYKtI?si=i2Ug384kCf-ghhaE)
 
 
+* **From Cognition to Precognition: A Future-Aware Framework for Social Navigation** <br>
+*Gong, Z., Hu, T., Qiu, R. and Liang, J.* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.13244) [[Code]](https://github.com/Zeying-Gong/Falcon) [[Website]](https://zeying-gong.github.io/projects/falcon/) [[Video]](https://youtu.be/elNI7XlRyvU?si=jHz_LnPMXnlo1Ehz)
 
 
-
-
-
-
-
-
-
-### <a name="imitation"></a> Imitation-Learning Social Navigation
 
 
 * **Socially Adaptive Path Planning in Human Environments Using Inverse Reinforcement Learning** <br>
@@ -207,19 +203,11 @@ ICRA, 2018. [[Paper]](https://arxiv.org/pdf/1710.02543) [[Code]](https://github.
 IEEE RO-MAN, 2019. [[Paper]](https://arxiv.org/pdf/1803.03719) [[Video]](https://youtu.be/YTz1brqQKEw?si=gkTFbmqf-bQg64Bs)
 
 
-* **Deep Imitation Learning for Autonomous Navigation in Dynamic Pedestrian Environments** <br>
-*Qin, L., Huang, Z., Zhang, C., Guo, H., Ang, M. and Rus, D.* <br>
-ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561220/)
-
-
 * **Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset** <br>
 *Nguyen, D.M., Nazeri, M., Payandeh, A., Datar, A. and Xiao, X.* <br>
 IROS, 2023. [[Paper]](https://arxiv.org/pdf/2303.14880) [[Code]](https://github.com/RobotiXX/MuSoHu-data-collection) [[Website]](https://cs.gmu.edu/~xiao/Research/MuSoHu/)
 
 
-* **A Generative Approach for Socially Compliant Navigation** <br>
-*Tsai, C.E. and Oh, J.* <br>
-ICRA, 2020. [[Paper]](http://www.cs.cmu.edu/~./jeanoh/papers/TO-ICRA2020.pdf) [[Video]](https://youtu.be/61blDymjCpw?si=noVU7-mrPaLqoEdt)
 
 
 
@@ -228,7 +216,10 @@ ICRA, 2020. [[Paper]](http://www.cs.cmu.edu/~./jeanoh/papers/TO-ICRA2020.pdf) [[
 
 
 
-### <a name="human_pose"></a> Human-Pose Social Navigation
+
+
+
+### <a name="human_pose"></a> Human-Position Social Navigation
 
 * **Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning** <br>
 *Chen, Y.F., Liu, M., Everett, M. and How, J.P.* <br>
@@ -253,6 +244,11 @@ IEEE Access, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/6287639/6514899/09
 * **DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors** <br>
 *Sathyamoorthy, A.J., Liang, J., Patel, U., Guan, T., Chandra, R. and Manocha, D.* <br>
 ICRA, 2020. [[Paper]](https://ieeexplore.ieee.org/iel7/9187508/9196508/09197379.pdf) [[Video]](https://youtu.be/AsUbng-E8gg?si=lW8FhU9CZsjQgGw-)
+
+
+* **Deep Imitation Learning for Autonomous Navigation in Dynamic Pedestrian Environments** <br>
+*Qin, L., Huang, Z., Zhang, C., Guo, H., Ang, M. and Rus, D.* <br>
+ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561220/)
 
 
 * **Reinforcement Learned Distributed Multi-Robot Navigation With Reciprocal Velocity Obstacle Shaped Rewards** <br>
@@ -305,6 +301,11 @@ IROS, 2020. [[Paper]](https://ieeexplore.ieee.org/iel7/9340668/9340635/09341540.
 * **Robot Navigation in Crowds by Graph Convolutional Networks With Attention Learned From Human Gaze** <br>
 *Chen, Y., Liu, C., Shi, B.E. and Liu, M.* <br>
 IEEE RAL, 2020. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/08990034.pdf) [[Website]](https://sites.google.com/view/gazenav) [[Video]](https://youtu.be/Z_UcyGEeznA?si=JTzn5ZwJzHEJwtb4)
+
+
+* **A Generative Approach for Socially Compliant Navigation** <br>
+*Tsai, C.E. and Oh, J.* <br>
+ICRA, 2020. [[Paper]](http://www.cs.cmu.edu/~./jeanoh/papers/TO-ICRA2020.pdf) [[Video]](https://youtu.be/61blDymjCpw?si=noVU7-mrPaLqoEdt)
 
 
 * **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning** <br>
@@ -365,7 +366,7 @@ ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2203.01821) [[Code]](https://github.
 
 
 
-### <a name="safety"></a> Safety Mechanism Social Navigation
+### <a name="safety"></a> Safety-aware Social Navigation
 
 * **Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Mapless Navigation by Leveraging Prior Demonstrations** <br>
 *Pfeiffer, M., Shukla, S., Turchetta, M., Cadena, C., Krause, A., Siegwart, R. and Nieto, J.* <br>
@@ -422,26 +423,29 @@ IROS, 2020. [[Paper]](https://arxiv.org/pdf/2003.09207) [[Code]](https://github.
 IROS, 2020. [[Paper]](http://ras.papercept.net/images/temp/IROS/files/1703.pdf) [[Code]](https://github.com/ethz-asl/interaction_actions_for_navigation) [[Video]](https://youtu.be/qbzbXufX6V4?si=WbbHv73-D7hjDFNp)
 
 
+* **SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning** <br>
+*Yao, J., Zhang, X., Xia, Y., Wang, Z., Roy-Chowdhury, A.K. and Li, J.* <br>
+Conference, Year. [[Paper]](https://arxiv.org/pdf/2407.17460) [[Code]](https://github.com/tasl-lab/SoNIC-Social-Nav) [[Video]](https://www.youtube.com/watch?v=TyyrCHwMD18&t=180s) [[Website]](https://sonic-social-nav.github.io/)
+
+
+* **Confidence-Aware Robust Dynamical Distance Constrained Reinforcement Learning for Social Robot Navigation** <br>
+*Zhu, K., Xue, T. and Zhang, T.* <br>
+Conference, Year. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11029302/)
+
+
+* **Social Zone as a Barrier Function for Socially-Compliant Robot Navigation** <br>
+*Jang, J. and Ghaffari, M.* <br>
+Conference, Year. [[Paper]](https://arxiv.org/pdf/2405.15101)
+
+
+* **A safe reinforcement learning approach for autonomous navigation of mobile robots in dynamic environments** <br>
+*Zhou, Z., Ren, J., Zeng, Z., Xiao, J., Zhang, X., Guo, X., Zhou, Z. and Lu, H.* <br>
+Conference, Year. [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cit2.12269)
 
 
 
 
 
-
-
-
-### <a name="vision_nav"></a> Vision Social Navigation
-
-
-* **Exploiting Proximity-Aware Tasks for Embodied Social Navigation** <br>
-*Cancelli, E., Campari, T., Serafini, L., Chang, A.X. and Ballan, L.* <br>
-IEEE/CVF, 2023. [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf) [[Code]](https://github.com/EnricoCancelli/ProximitySocialNav) [[Video]](https://youtu.be/havP4HyYKtI?si=i2Ug384kCf-ghhaE)
-
-
-
-* **From Cognition to Precognition: A Future-Aware Framework for Social Navigation** <br>
-*Gong, Z., Hu, T., Qiu, R. and Liang, J.* <br>
-arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.13244) [[Code]](https://github.com/Zeying-Gong/Falcon) [[Website]](https://zeying-gong.github.io/projects/falcon/) [[Video]](https://youtu.be/elNI7XlRyvU?si=jHz_LnPMXnlo1Ehz)
 
 
 
