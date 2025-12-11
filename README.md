@@ -12,7 +12,7 @@
 
 📩 If you notice any missing papers or resources, feel free to email me or submit a [request](#contributing).
 
-📖 Resources are based on findings from our survey paper: ["Social Robot Navigation: A Review of Learning-Based Methods"](https://arxiv.org).
+📖 Resources are based on findings from our survey paper: ["Social Robot Navigation: A Review and Benchmarking of Learning-Based Methods"](https://socialnavigation.github.io/).
 
 
 
