@@ -77,12 +77,12 @@ ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1911.03074) [[Website]](https://site
 
 * **NavRep: Unsupervised Representations for Reinforcement Learning of Robot Navigation in Dynamic Human Environments** <br>
 *Dugas, D., Nieto, J., Siegwart, R. and Chung, J.J.* <br>
-ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2012.04406) [[Code]](https://github.com/ethz-asl/navrep) [[Video]](https://www.youtube.com/watch?v=bg4j9I4p0-I&t=1046s&pp=ygUMbmF2cmVwIGNyb3dk)
+ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2012.04406) [[Code]](https://github.com/ethz-asl/navrep) ⭐104 [[Video]](https://www.youtube.com/watch?v=bg4j9I4p0-I&t=1046s&pp=ygUMbmF2cmVwIGNyb3dk)
 
 
 * **Learning World Transition Model for Socially Aware Robot Navigation** <br>
 *Cui, Y., Zhang, H., Wang, Y. and Xiong, R.* <br>
-ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2011.03922) [[Code]](https://github.com/ZJU-Robotics-Lab/model-based-social-navigation) [[Video]](https://www.bilibili.com/video/BV1W64y1o7Ru/)
+ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2011.03922) [[Code]](https://github.com/ZJU-Robotics-Lab/model-based-social-navigation) ⭐66 [[Video]](https://www.bilibili.com/video/BV1W64y1o7Ru/)
 
 
 * **Deep Reinforcement Learning for Robot Collision Avoidance With Self-State-Attention and Sensor Fusion** <br>
@@ -107,12 +107,12 @@ ICRA, 2020. [[Paper]](https://europe.naverlabs.com/wp-content/uploads/2020/02/Fa
 
 * **Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning** <br>
 *Lee, K., Kim, S. and Choi, J.* <br>
-ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2305.19746) [[Code]](https://github.com/leekwoon/hrl-nav)
+ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2305.19746) [[Code]](https://github.com/leekwoon/hrl-nav) ⭐137
 
 
 * **A Hierarchical Deep Reinforcement Learning Framework With High Efficiency and Generalization for Fast and Safe Navigation** <br>
 *Zhu, W. and Hayashibe, M.* <br>
-IEEE Transactions on industrial Electronics, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9834298/) [[Code]](https://github.com/zw199502/RL_navigation) [[Video]](https://youtu.be/S95BQDEiTE0)
+IEEE Transactions on industrial Electronics, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9834298/) [[Code]](https://github.com/zw199502/RL_navigation) ⭐54 [[Video]](https://youtu.be/S95BQDEiTE0)
 
 
 * **Resilient Navigation Among Dynamic Agents with Hierarchical Reinforcement Learning** <br>
@@ -151,19 +151,19 @@ Applied Sciences, 2019. [[Paper]](https://www.mdpi.com/2076-3417/9/20/4198/pdf)
 
 * **iPlanner: Imperative Path Planning** <br>
 *Yang, F., Wang, C., Cadena, C. and Hutter, M.* <br>
-arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2302.11434) [[Code]](https://github.com/leggedrobotics/iPlanner) [[Video]](https://youtu.be/-IfjSW0wPBI?si=2T5lWoWgBUwiOBQ_)
+arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2302.11434) [[Code]](https://github.com/leggedrobotics/iPlanner) ⭐364 [[Video]](https://youtu.be/-IfjSW0wPBI?si=2T5lWoWgBUwiOBQ_)
 
 
 
 
 * **Exploiting Proximity-Aware Tasks for Embodied Social Navigation** <br>
 *Cancelli, E., Campari, T., Serafini, L., Chang, A.X. and Ballan, L.* <br>
-IEEE/CVF, 2023. [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf) [[Code]](https://github.com/EnricoCancelli/ProximitySocialNav) [[Video]](https://youtu.be/havP4HyYKtI?si=i2Ug384kCf-ghhaE)
+IEEE/CVF, 2023. [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf) [[Code]](https://github.com/EnricoCancelli/ProximitySocialNav) ⭐11 [[Video]](https://youtu.be/havP4HyYKtI?si=i2Ug384kCf-ghhaE)
 
 
 * **From Cognition to Precognition: A Future-Aware Framework for Social Navigation** <br>
 *Gong, Z., Hu, T., Qiu, R. and Liang, J.* <br>
-arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.13244) [[Code]](https://github.com/Zeying-Gong/Falcon) [[Website]](https://zeying-gong.github.io/projects/falcon/) [[Video]](https://youtu.be/elNI7XlRyvU?si=jHz_LnPMXnlo1Ehz)
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.13244) [[Code]](https://github.com/Zeying-Gong/Falcon) ⭐107 [[Website]](https://zeying-gong.github.io/projects/falcon/) [[Video]](https://youtu.be/elNI7XlRyvU?si=jHz_LnPMXnlo1Ehz)
 
 
 
@@ -195,7 +195,7 @@ IROS, 2018. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8593683/)
 
 * **Socially Compliant Navigation through Raw Depth Inputs with Generative Adversarial Imitation Learning** <br>
 *Tai, L., Zhang, J., Liu, M. and Burgard, W.* <br>
-ICRA, 2018. [[Paper]](https://arxiv.org/pdf/1710.02543) [[Code]](https://github.com/onlytailei/gym_ped_sim) [[Video]](https://youtu.be/0hw0GD3lkA8?si=p7WeLEisUuoUELUM)
+ICRA, 2018. [[Paper]](https://arxiv.org/pdf/1710.02543) [[Code]](https://github.com/onlytailei/gym_ped_sim) ⭐122 [[Video]](https://youtu.be/0hw0GD3lkA8?si=p7WeLEisUuoUELUM)
 
 
 * **DeepMoTIon: Learning to Navigate Like Humans** <br>
@@ -205,7 +205,7 @@ IEEE RO-MAN, 2019. [[Paper]](https://arxiv.org/pdf/1803.03719) [[Video]](https:/
 
 * **Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset** <br>
 *Nguyen, D.M., Nazeri, M., Payandeh, A., Datar, A. and Xiao, X.* <br>
-IROS, 2023. [[Paper]](https://arxiv.org/pdf/2303.14880) [[Code]](https://github.com/RobotiXX/MuSoHu-data-collection) [[Website]](https://cs.gmu.edu/~xiao/Research/MuSoHu/)
+IROS, 2023. [[Paper]](https://arxiv.org/pdf/2303.14880) [[Code]](https://github.com/RobotiXX/MuSoHu-data-collection) ⭐32 [[Website]](https://cs.gmu.edu/~xiao/Research/MuSoHu/)
 
 
 
@@ -223,22 +223,22 @@ IROS, 2023. [[Paper]](https://arxiv.org/pdf/2303.14880) [[Code]](https://github.
 
 * **Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning** <br>
 *Chen, Y.F., Liu, M., Everett, M. and How, J.P.* <br>
-ICRA, 2017. [[Paper]](https://ieeexplore.ieee.org/iel7/7960754/7988677/07989037.pdf) [[Code]](https://github.com/ChanganVR/CADRL) [[Video]](https://youtu.be/BryJ9jeBkbU?si=riqBOrH3Zo0v-D34)
+ICRA, 2017. [[Paper]](https://ieeexplore.ieee.org/iel7/7960754/7988677/07989037.pdf) [[Code]](https://github.com/ChanganVR/CADRL) ⭐95 [[Video]](https://youtu.be/BryJ9jeBkbU?si=riqBOrH3Zo0v-D34)
 
 
 * **Socially Aware Motion Planning with Deep Reinforcement Learning** <br>
 *Chen, Y.F., Everett, M., Liu, M. and How, J.P.* <br>
-IROS, 2017. [[Paper]](https://ieeexplore.ieee.org/iel7/8119304/8202121/08202312.pdf) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) [[Video]](https://youtu.be/CK1szio7PyA?si=71FX3u0GIuwkT7uS)
+IROS, 2017. [[Paper]](https://ieeexplore.ieee.org/iel7/8119304/8202121/08202312.pdf) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) ⭐320 [[Video]](https://youtu.be/CK1szio7PyA?si=71FX3u0GIuwkT7uS)
 
 
 * **Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning** <br>
 *Everett, M., Chen, Y.F. and How, J.P.* <br>
-IROS, 2018. [[Paper]](https://ieeexplore.ieee.org/iel7/8574473/8593358/08593871.pdf) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) [[Video]](https://youtu.be/XHoXkWLhwYQ?si=Qzlw1QLc-r0CPkB6)
+IROS, 2018. [[Paper]](https://ieeexplore.ieee.org/iel7/8574473/8593358/08593871.pdf) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) ⭐320 [[Video]](https://youtu.be/XHoXkWLhwYQ?si=Qzlw1QLc-r0CPkB6)
 
 
 * **Collision Avoidance in Pedestrian-Rich Environments With Deep Reinforcement Learning** <br>
 *Everett, M., Chen, Y.F. and How, J.P.* <br>
-IEEE Access, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/6287639/6514899/09317723.pdf) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) [[Video]](https://youtu.be/Bjx4ZEov0yE?si=OfacA3ukOhf2HgXt)
+IEEE Access, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/6287639/6514899/09317723.pdf) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) ⭐320 [[Video]](https://youtu.be/Bjx4ZEov0yE?si=OfacA3ukOhf2HgXt)
 
 
 * **DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors** <br>
@@ -253,12 +253,12 @@ ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561220/)
 
 * **Reinforcement Learned Distributed Multi-Robot Navigation With Reciprocal Velocity Obstacle Shaped Rewards** <br>
 *Han, R., Chen, S., Wang, S., Zhang, Z., Gao, R., Hao, Q. and Pan, J.* <br>
-IEEE RAL, 2022. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/09740403.pdf) [[Code]](https://github.com/hanruihua/rl_rvo_nav) [[Video]](https://youtu.be/-8a8Vqm6epM?si=IjXp_V3kcmNJSF19)
+IEEE RAL, 2022. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/09740403.pdf) [[Code]](https://github.com/hanruihua/rl_rvo_nav) ⭐291 [[Video]](https://youtu.be/-8a8Vqm6epM?si=IjXp_V3kcmNJSF19)
 
 
 * **DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity Obstacles** <br>
 *Xie, Z. and Dames, P.* <br>
-IEEE Transactions on Robotics, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/8860/10214173/10089196.pdf) [[Code]](https://github.com/TempleRAIL/drl_vo_nav) [[Video]](https://youtu.be/KneELRT8GzU?si=xrL5dbeWu48Y6I3o)
+IEEE Transactions on Robotics, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/8860/10214173/10089196.pdf) [[Code]](https://github.com/TempleRAIL/drl_vo_nav) ⭐293 [[Video]](https://youtu.be/KneELRT8GzU?si=xrL5dbeWu48Y6I3o)
 
 
 * **Aligning Human Preferences with Baseline Objectives in Reinforcement Learning** <br>
@@ -290,7 +290,7 @@ IROS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/10341341/10341342/1034137
 
 * **Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning** <br>
 *Chen, C., Liu, Y., Kreiss, S. and Alahi, A.* <br>
-ICRA, 2019. [[Paper]](https://ieeexplore.ieee.org/iel7/8780387/8793254/08794134.pdf) [[Code]](https://github.com/vita-epfl/CrowdNav) [[Website]](https://www.epfl.ch/labs/vita/research/planning/crowd-robot-interaction/) [[Video]](https://youtu.be/0sNVtQ9eqjA?si=KWwaCPWSmRXGVN_V)
+ICRA, 2019. [[Paper]](https://ieeexplore.ieee.org/iel7/8780387/8793254/08794134.pdf) [[Code]](https://github.com/vita-epfl/CrowdNav) ⭐716 [[Website]](https://www.epfl.ch/labs/vita/research/planning/crowd-robot-interaction/) [[Video]](https://youtu.be/0sNVtQ9eqjA?si=KWwaCPWSmRXGVN_V)
 
 
 * **Robot Navigation in Crowded Environments Using Deep Reinforcement Learning** <br>
@@ -310,12 +310,12 @@ ICRA, 2020. [[Paper]](http://www.cs.cmu.edu/~./jeanoh/papers/TO-ICRA2020.pdf) [[
 
 * **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning** <br>
 *Liu, S., Chang, P., Liang, W., Chakraborty, N. and Driggs-Campbell, K.* <br>
-ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/9560720/9560666/09561595.pdf) [[Code]](https://github.com/Shuijing725/CrowdNav_DSRNN) [[Website]](https://sites.google.com/illinois.edu/crowdnav-dsrnn/home) [[Video]](https://www.youtube.com/watch?v=FRWxJroI-vg)
+ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/9560720/9560666/09561595.pdf) [[Code]](https://github.com/Shuijing725/CrowdNav_DSRNN) ⭐122 [[Website]](https://sites.google.com/illinois.edu/crowdnav-dsrnn/home) [[Video]](https://www.youtube.com/watch?v=FRWxJroI-vg)
 
 
 * **NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning** <br>
 *Wang, W., Wang, R., Mao, L. and Min, B.C.* <br>
-IROS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/10341341/10341342/10341395.pdf) [[Code]](https://github.com/SMARTlab-Purdue/SAN-NaviSTAR) [[Website]](https://sites.google.com/view/san-navistar) [[Video]](https://www.youtube.com/watch?v=iPDF3jZZ-4M&t=222s&ab_channel=PurdueSMARTLab)
+IROS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/10341341/10341342/10341395.pdf) [[Code]](https://github.com/SMARTlab-Purdue/SAN-NaviSTAR) ⭐61 [[Website]](https://sites.google.com/view/san-navistar) [[Video]](https://www.youtube.com/watch?v=iPDF3jZZ-4M&t=222s&ab_channel=PurdueSMARTLab)
 
 
 * **Graph Relational Reinforcement Learning for Mobile Robot Navigation in Large-Scale Crowded Environments** <br>
@@ -333,22 +333,22 @@ IEEE T-ITS, 2023. [[Paper]](https://ieeexplore.ieee.org/iel7/6979/10202228/10115
 
 * **Where to go Next: Learning a Subgoal Recommendation Policy for Navigation in Dynamic Environments** <br>
 *Brito, B., Everett, M., How, J.P. and Alonso-Mora, J.* <br>
-IEEE RAL, 2021. [[Paper]](https://autonomousrobots.nl/assets/files/publications/21-brito-ral.pdf) [[Code]](https://github.com/tud-amr/go-mpc) [[Video]](https://youtu.be/sZBbWMnwle8?si=iWcVoE8V6YpGNmOS)
+IEEE RAL, 2021. [[Paper]](https://autonomousrobots.nl/assets/files/publications/21-brito-ral.pdf) [[Code]](https://github.com/tud-amr/go-mpc) ⭐76 [[Video]](https://youtu.be/sZBbWMnwle8?si=iWcVoE8V6YpGNmOS)
 
 
 * **Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search** <br>
 *Eiffert, S., Kong, H., Pirmarzdashti, N. and Sukkarieh, S.* <br>
-ICRA, 2020. [[Paper]](https://arxiv.org/pdf/2001.11597) [[Code]](https://github.com/stuarteiffert/MCTS-GRNN) [[Video]](https://youtu.be/vBPKiqtCYRU)
+ICRA, 2020. [[Paper]](https://arxiv.org/pdf/2001.11597) [[Code]](https://github.com/stuarteiffert/MCTS-GRNN) ⭐29 [[Video]](https://youtu.be/vBPKiqtCYRU)
 
 
 * **Relational Graph Learning for Crowd Navigation** <br>
 *Chen, C., Hu, S., Nikdel, P., Mori, G. and Savva, M.* <br>
-IROS, 2020. [[Paper]](https://arxiv.org/pdf/1909.13165) [[Code]](https://github.com/ChanganVR/RelationalGraphLearning) [[Video]](https://youtu.be/_L-Ih3cE3l0?si=s0wolpMhRUMpglIq) [[Short Video]](https://youtu.be/U3quW30Eu3A?si=kOIxrxm8so5DA5uU)
+IROS, 2020. [[Paper]](https://arxiv.org/pdf/1909.13165) [[Code]](https://github.com/ChanganVR/RelationalGraphLearning) ⭐147 [[Video]](https://youtu.be/_L-Ih3cE3l0?si=s0wolpMhRUMpglIq) [[Short Video]](https://youtu.be/U3quW30Eu3A?si=kOIxrxm8so5DA5uU)
 
 
 * **From Crowd Motion Prediction to Robot Navigation in Crowds** <br>
 *Poddar, S., Mavrogiannis, C. and Srinivasa, S.S.* <br>
-IROS, 2023. [[Paper]](https://arxiv.org/pdf/2303.01424) [[Code]](https://github.com/sriyash421/Pred2Nav) [[Video]](https://youtu.be/mzFiXg8KsZ0?si=9AgWqTaO8HEBjrix)
+IROS, 2023. [[Paper]](https://arxiv.org/pdf/2303.01424) [[Code]](https://github.com/sriyash421/Pred2Nav) ⭐12 [[Video]](https://youtu.be/mzFiXg8KsZ0?si=9AgWqTaO8HEBjrix)
 
 
 * **Socially Aware Crowd Navigation with Multimodal Pedestrian Trajectory Prediction for Autonomous Vehicles** <br>
@@ -358,7 +358,7 @@ IEEE ITSC, 2020. [[Paper]](https://arxiv.org/pdf/2011.11191)
 
 * **Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph** <br>
 *Liu, S., Chang, P., Huang, Z., Chakraborty, N., Hong, K., Liang, W., McPherson, D.L., Geng, J. and Driggs-Campbell, K.* <br>
-ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2203.01821) [[Code]](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph) [[Website]](https://sites.google.com/view/intention-aware-crowdnav/home) [[Video]](https://youtu.be/boDDQvZ1yV0?si=SdBnmCfjFbZ1xFro)
+ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2203.01821) [[Code]](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph) ⭐253 [[Website]](https://sites.google.com/view/intention-aware-crowdnav/home) [[Video]](https://youtu.be/boDDQvZ1yV0?si=SdBnmCfjFbZ1xFro)
 
 
 
@@ -370,7 +370,7 @@ ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2203.01821) [[Code]](https://github.
 
 * **Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Mapless Navigation by Leveraging Prior Demonstrations** <br>
 *Pfeiffer, M., Shukla, S., Turchetta, M., Cadena, C., Krause, A., Siegwart, R. and Nieto, J.* <br>
-IEEE RAL, 2018. [[Paper]](https://arxiv.org/pdf/1805.07095) [[Code]](https://github.com/ethz-asl/rl-navigation)
+IEEE RAL, 2018. [[Paper]](https://arxiv.org/pdf/1805.07095) [[Code]](https://github.com/ethz-asl/rl-navigation) ⭐65
 
 
 * **Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios** <br>
@@ -385,7 +385,7 @@ IECON, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9968759/)
 
 * **All-in-One: A DRL-based Control Switch Combining State-of-the-art Navigation Planners** <br>
 *Linh, K.U., Cox, J., Buiyan, T. and Lambrecht, J.* <br>
-ICRA, 2022. [[Paper]](https://arxiv.org/pdf/2109.11636) [[Code]](https://github.com/ignc-research/all-in-one-DRL-planner)
+ICRA, 2022. [[Paper]](https://arxiv.org/pdf/2109.11636) [[Code]](https://github.com/ignc-research/all-in-one-DRL-planner) ⭐49
 
 
 * **Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation** <br>
@@ -410,22 +410,22 @@ IEEE RAL, 2020. [[Paper]](https://arxiv.org/pdf/2003.05395) [[Video]](https://yo
 
 * **XAI-N: Sensor-based Robot Navigation using Expert Policies and Decision Trees** <br>
 *Roth, A.M., Liang, J. and Manocha, D.* <br>
-IROS, 2021. [[Paper]](https://arxiv.org/pdf/2104.10818) [[Code]](https://github.com/AMR-/JackalCrowdEnv) [[Website]](https://gamma.umd.edu/researchdirections/xrl/navviper)
+IROS, 2021. [[Paper]](https://arxiv.org/pdf/2104.10818) [[Code]](https://github.com/AMR-/JackalCrowdEnv) ⭐6 [[Website]](https://gamma.umd.edu/researchdirections/xrl/navviper)
 
 
 * **L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation** <br>
 *Nishimura, M. and Yonetani, R.* <br>
-IROS, 2020. [[Paper]](https://arxiv.org/pdf/2003.09207) [[Code]](https://github.com/denkiwakame/Python-ERVO) [[Website]](https://denkiwakame.github.io/l2b/)
+IROS, 2020. [[Paper]](https://arxiv.org/pdf/2003.09207) [[Code]](https://github.com/denkiwakame/Python-ERVO) ⭐23 [[Website]](https://denkiwakame.github.io/l2b/)
 
 
 * **IAN: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments** <br>
 *Dugas, D., Nieto, J., Siegwart, R. and Chung, J.J.* <br>
-IROS, 2020. [[Paper]](http://ras.papercept.net/images/temp/IROS/files/1703.pdf) [[Code]](https://github.com/ethz-asl/interaction_actions_for_navigation) [[Video]](https://youtu.be/qbzbXufX6V4?si=WbbHv73-D7hjDFNp)
+IROS, 2020. [[Paper]](http://ras.papercept.net/images/temp/IROS/files/1703.pdf) [[Code]](https://github.com/ethz-asl/interaction_actions_for_navigation) ⭐32 [[Video]](https://youtu.be/qbzbXufX6V4?si=WbbHv73-D7hjDFNp)
 
 
 * **SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning** <br>
 *Yao, J., Zhang, X., Xia, Y., Wang, Z., Roy-Chowdhury, A.K. and Li, J.* <br>
-Conference, Year. [[Paper]](https://arxiv.org/pdf/2407.17460) [[Code]](https://github.com/tasl-lab/SoNIC-Social-Nav) [[Video]](https://www.youtube.com/watch?v=TyyrCHwMD18&t=180s) [[Website]](https://sonic-social-nav.github.io/)
+Conference, Year. [[Paper]](https://arxiv.org/pdf/2407.17460) [[Code]](https://github.com/tasl-lab/SoNIC-Social-Nav) ⭐23 [[Video]](https://www.youtube.com/watch?v=TyyrCHwMD18&t=180s) [[Website]](https://sonic-social-nav.github.io/)
 
 
 * **Confidence-Aware Robust Dynamical Distance Constrained Reinforcement Learning for Social Robot Navigation** <br>
@@ -460,7 +460,7 @@ Conference, Year. [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfd
 
 * **You Only Look Once: Unified, Real-Time Object Detection** <br>
 *Redmon, J., Divvala, S., Girshick, R., and Farhadi, A.* <br>
-CVPR, 2016. [[Paper]](https://www.academis.eu/machine_learning/_downloads/51a67e9194f116abefff5192f683e3d8/yolo.pdf) [[Code]](https://github.com/WongKinYiu/yolov7)
+CVPR, 2016. [[Paper]](https://www.academis.eu/machine_learning/_downloads/51a67e9194f116abefff5192f683e3d8/yolo.pdf) [[Code]](https://github.com/WongKinYiu/yolov7) ⭐14096
 
 * **SSD: Single Shot MultiBox Detector** <br>
 *Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C.Y. and Berg, A.C.* <br>
@@ -468,23 +468,23 @@ Springer International, 2016. [[Paper]](http://www.cs.utoronto.ca/~bonner/course
 
 * **End-to-End Object Detection with Transformers** <br>
 *Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A. and Zagoruyko, S.* <br>
-Springer International Publishing, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf) [[Code]](https://github.com/facebookresearch/detr)
+Springer International Publishing, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf) [[Code]](https://github.com/facebookresearch/detr) ⭐15277
 
 * **DR-SPAAM: A Spatial-Attention and Auto-regressive Model for Person Detection in 2D Range Data** <br>
 *Jia, D., Hermans, A. and Leibe, B.* <br>
-IROS, 2020. [[Paper]](https://arxiv.org/pdf/2004.14079) [[Code]](https://github.com/VisualComputingInstitute/DR-SPAAM-Detector)
+IROS, 2020. [[Paper]](https://arxiv.org/pdf/2004.14079) [[Code]](https://github.com/VisualComputingInstitute/DR-SPAAM-Detector) ⭐89
 
 * **Multiple Hypothesis Tracking Algorithm for Multi-target Multi-camera Tracking with Disjoint Views** <br>
 *Yoon, K., Song, Y.M. and Jeon, M.* <br>
-IET Image Processing, 2018. [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-ipr.2017.1244) [[Code]](https://github.com/yoon28/SCT4DukeMTMC)
+IET Image Processing, 2018. [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-ipr.2017.1244) [[Code]](https://github.com/yoon28/SCT4DukeMTMC) ⭐36
 
 * **Simple Online and Realtime Tracking with a Deep Association Metric** <br>
 *Wojke, N., Bewley, A. and Paulus, D.* <br>
-IEEE ICIP, 2017. [[Paper]](https://arxiv.org/pdf/1703.07402) [[Code]](https://github.com/nwojke/deep_sort)
+IEEE ICIP, 2017. [[Paper]](https://arxiv.org/pdf/1703.07402) [[Code]](https://github.com/nwojke/deep_sort) ⭐6138
 
 * **ByteTrack: Multi-Object Tracking by Associating Every Detection Box** <br>
 *Zhang, Y., Sun, P., Jiang, Y., Yu, D., Weng, F., Yuan, Z., Luo, P., Liu, W. and Wang, X.* <br>
-ECCV, 2022. [[Paper]](https://arxiv.org/pdf/2303.15334) [[Code]](https://github.com/ifzhang/ByteTrack)
+ECCV, 2022. [[Paper]](https://arxiv.org/pdf/2303.15334) [[Code]](https://github.com/ifzhang/ByteTrack) ⭐6386
 
 
 
@@ -499,15 +499,15 @@ ECCV, 2022. [[Paper]](https://arxiv.org/pdf/2303.15334) [[Code]](https://github.
 
 * **Social LSTM: Human Trajectory Prediction in Crowded Spaces** <br>
 *Alahi, A., Goel, K., Ramanathan, V., Robicquet, A., Fei-Fei, L. and Savarese, S.* <br>
-CVPR, 2016. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf) [[Code]](https://github.com/quancore/social-lstm)
+CVPR, 2016. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf) [[Code]](https://github.com/quancore/social-lstm) ⭐495
 
 * **Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks** <br>
 *Gupta, A., Johnson, J., Fei-Fei, L., Savarese, S. and Alahi, A.* <br>
-CVPR, 2018. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf) [[Code]](https://github.com/agrimgupta92/sgan)
+CVPR, 2018. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf) [[Code]](https://github.com/agrimgupta92/sgan) ⭐914
 
 * **SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints** <br>
 *Sadeghian, A., Kosaraju, V., Sadeghian, A., Hirose, N., Rezatofighi, H. and Savarese, S.* <br>
-CVPR, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf) [[Code]](https://github.com/coolsunxu/sophie)
+CVPR, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf) [[Code]](https://github.com/coolsunxu/sophie) ⭐65
 
 * **Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network** <br>
 *Eiffert, S., Li, K., Shan, M., Worrall, S., Sukkarieh, S. and Nebot, E.* <br>
@@ -515,15 +515,15 @@ IEEE RAL, 2020. [[Paper]](https://arxiv.org/pdf/2006.12906)
 
 * **Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion** <br>
 *Gu, T., Chen, G., Li, J., Lin, C., Rao, Y., Zhou, J. and Lu, J.* <br>
-CVPR, 2022. [[Paper]](http://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf) [[Code]](https://github.com/gutianpei/MID)
+CVPR, 2022. [[Paper]](http://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf) [[Code]](https://github.com/gutianpei/MID) ⭐228
 
 * **Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs** <br>
 *Amirian, J., Hayet, J.B. and Pettré, J.* <br>
-CVPR, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf) [[Code]](https://github.com/crowdbotp/socialways)
+CVPR, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf) [[Code]](https://github.com/crowdbotp/socialways) ⭐129
 
 * **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction** <br>
 *Mohamed, A., Qian, K., Elhoseiny, M. and Claudel, C.* <br>
-CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf) [[Code]](https://github.com/abduallahmohamed/Social-STGCNN)
+CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf) [[Code]](https://github.com/abduallahmohamed/Social-STGCNN) ⭐576
 
 
 
@@ -588,7 +588,7 @@ IEEE IV, 2020. [[Paper]](https://arxiv.org/pdf/1911.07602) [[Dataset]](https://l
 
 * **CITR and DUT Dataset** <br>
 *Yang, D., Li, L., Redmill, K. and Özgüner, Ü.* <br>
-IEEE IV, 2019. [[Paper]](https://arxiv.org/pdf/1902.00487) [[CITR Dataset]](https://github.com/dongfang-steven-yang/vci-dataset-citr) [[DUT Dataset]](https://github.com/dongfang-steven-yang/vci-dataset-dut) 
+IEEE IV, 2019. [[Paper]](https://arxiv.org/pdf/1902.00487) [[CITR Dataset]](https://github.com/dongfang-steven-yang/vci-dataset-citr) ⭐38 [[DUT Dataset]](https://github.com/dongfang-steven-yang/vci-dataset-dut) ⭐63 
 
 
 * **WILDTRACK Dataset** <br>
@@ -598,7 +598,7 @@ CVPR, 2018. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cha
 
 * **STCrowd Dataset** <br>
 *Cong, P., Zhu, X., Qiao, F., Ren, Y., Peng, X., Hou, Y., Xu, L., Yang, R., Manocha, D. and Ma, Y.* <br>
-CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_STCrowd_A_Multimodal_Dataset_for_Pedestrian_Perception_in_Crowded_Scenes_CVPR_2022_paper.pdf) [[Dataset]](https://github.com/4DVLab/STCrowd) [[Website]](https://4dvlab.github.io/STCrowd/)
+CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_STCrowd_A_Multimodal_Dataset_for_Pedestrian_Perception_in_Crowded_Scenes_CVPR_2022_paper.pdf) [[Dataset]](https://github.com/4DVLab/STCrowd) ⭐53 [[Website]](https://4dvlab.github.io/STCrowd/)
 
 
 * **Thor Dataset** <br>
@@ -648,7 +648,7 @@ IEEE RAL, 2023. [[Paper]](https://arxiv.org/pdf/2306.01874) [[Dataset]](https://
 
 * **SiT Dataset** <br>
 *Bae, J.W., Kim, J., Yun, J., Kang, C., Choi, J., Kim, C., Lee, J., Choi, J. and Choi, J.W.* <br>
-NeurIPS, 2024. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/4d6a000c216974f59e597bc878cd6325-Paper-Datasets_and_Benchmarks.pdf) [[Dataset]](https://github.com/SPALaboratory/SiT-Dataset) [[Website]](https://spalaboratory.github.io/SiT/)
+NeurIPS, 2024. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/4d6a000c216974f59e597bc878cd6325-Paper-Datasets_and_Benchmarks.pdf) [[Dataset]](https://github.com/SPALaboratory/SiT-Dataset) ⭐81 [[Website]](https://spalaboratory.github.io/SiT/)
 
 
 * **KITTI Dataset** <br>
@@ -691,7 +691,7 @@ arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2004.06320) [[Dataset]](https://www
 
 * **Menge** <br>
 *Curtis, S., Best, A. and Manocha, D.* <br>
-Collective Dynamics, 2016. [[Paper]](https://collective-dynamics.eu/index.php/cod/article/download/A1/3) [[Code]](https://github.com/MengeCrowdSim/Menge)
+Collective Dynamics, 2016. [[Paper]](https://collective-dynamics.eu/index.php/cod/article/download/A1/3) [[Code]](https://github.com/MengeCrowdSim/Menge) ⭐152
 
 
 * **SEAN** <br>
@@ -706,7 +706,7 @@ IROS, 2021. [[Paper]](https://arxiv.org/pdf/2012.12336) [[Code]](https://sean.in
 
 * **UnrealCV** <br>
 *Qiu, W., Zhong, F., Zhang, Y., Qiao, S., Xiao, Z., Kim, T.S. and Wang, Y.* <br>
-ACM-ICM, 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [[Code]](https://github.com/unrealcv/unrealcv)
+ACM-ICM, 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [[Code]](https://github.com/unrealcv/unrealcv) ⭐2182
 
 
 * **MORSE** <br>
@@ -721,7 +721,7 @@ IROS, 2004. [[Paper]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 
 * **Isaac Sim** <br>
 *Mittal, M., Yu, C., Yu, Q., Liu, J., Rudin, N., Hoeller, D., Yuan, J.L., Singh, R., Guo, Y., Mazhar, H. and Mandlekar, A.* <br>
-IEEE RAL, 2023. [[Paper]](https://arxiv.org/pdf/2301.04195) [[Code]](https://github.com/isaac-sim/IsaacLab)
+IEEE RAL, 2023. [[Paper]](https://arxiv.org/pdf/2301.04195) [[Code]](https://github.com/isaac-sim/IsaacLab) ⭐7232
 
 
 * **Webots Sim** <br>
@@ -731,7 +731,7 @@ IJARS, 2004. [[Paper]](https://journals.sagepub.com/doi/pdf/10.5772/5618) [[Code
 
 * **AI2-THOR** <br>
 *Kolve, E., Mottaghi, R., Han, W., VanderBilt, E., Weihs, L., Herrasti, A., Deitke, M., Ehsani, K., Gordon, D., Zhu, Y. and Kembhavi, A.* <br>
-arXiv, 2017. [[Paper]](https://arxiv.org/pdf/1712.05474) [[Code]](https://github.com/allenai/ai2thor)
+arXiv, 2017. [[Paper]](https://arxiv.org/pdf/1712.05474) [[Code]](https://github.com/allenai/ai2thor) ⭐1728
 
 
 * **Habitat 2.0** <br>
@@ -746,12 +746,12 @@ arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2310.13724) [[Code]](https://aihabi
 
 * **HabiCrowd** <br>
 *Vuong, A.D., Nguyen, T.T., VU, M.N., Huang, B., Nguyen, D., Binh, H.T.T., Vo, T. and Nguyen, A.* <br>
-arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2306.11377) [[Code]](https://github.com/Fsoft-AIC/HabiCrowd)
+arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2306.11377) [[Code]](https://github.com/Fsoft-AIC/HabiCrowd) ⭐37
 
 
 * **SAPIEN** <br>
 *Xiang, F., Qin, Y., Mo, K., Xia, Y., Zhu, H., Liu, F., Liu, M., Jiang, H., Yuan, Y., Wang, H. and Yi, L.* <br>
-CVPR, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.pdf) [[Code]](https://github.com/haosulab/SAPIEN)
+CVPR, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.pdf) [[Code]](https://github.com/haosulab/SAPIEN) ⭐767
 
 
 * **CrowdBot Sim** <br>
@@ -761,37 +761,37 @@ ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2104.14177) [[Code]](https://gitlab.
 
 * **iGibson** <br>
 *Li, C., Xia, F., Martín-Martín, R., Lingelbach, M., Srivastava, S., Shen, B., Vainio, K., Gokmen, C., Dharan, G., Jain, T. and Kurenkov, A.* <br>
-arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2108.03272.pdf&quot;&gt;iGibson) [[Code]](https://github.com/StanfordVL/iGibson)
+arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2108.03272.pdf&quot;&gt;iGibson) [[Code]](https://github.com/StanfordVL/iGibson) ⭐806
 
 
 * **CrowdNav** <br>
 *Chen, C., Liu, Y., Kreiss, S. and Alahi, A.* <br>
-ICRA, 2019. [[Paper]](https://arxiv.org/pdf/1809.08835) [[Code]](https://github.com/vita-epfl/CrowdNav)
+ICRA, 2019. [[Paper]](https://arxiv.org/pdf/1809.08835) [[Code]](https://github.com/vita-epfl/CrowdNav) ⭐716
 
 
 * **Arena-Rosnav** <br>
 *Kästner, L., Buiyan, T., Jiao, L., Le, T.A., Zhao, X., Shen, Z. and Lambrecht, J.* <br>
-IROS, 2021. [[Paper]](https://arxiv.org/pdf/2104.03616) [[Code]](https://github.com/Arena-Rosnav/arena-rosnav)
+IROS, 2021. [[Paper]](https://arxiv.org/pdf/2104.03616) [[Code]](https://github.com/Arena-Rosnav/arena-rosnav) ⭐118
 
 
 * **nav-gym** <br>
 *Lee, K., Kim, S. and Choi, J.* <br>
-ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2305.19746) [[Code]](https://github.com/leekwoon/nav-gym)
+ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2305.19746) [[Code]](https://github.com/leekwoon/nav-gym) ⭐27
 
 
 * **gym-collision-avoidance** <br>
 *Everett, M., Chen, Y.F. and How, J.P.* <br>
-IROS, 2018. [[Paper]](https://arxiv.org/pdf/1805.01956) [[Code]](https://github.com/mit-acl/gym-collision-avoidance)
+IROS, 2018. [[Paper]](https://arxiv.org/pdf/1805.01956) [[Code]](https://github.com/mit-acl/gym-collision-avoidance) ⭐320
 
 
 * **navrep** <br>
 *Dugas, D., Nieto, J., Siegwart, R. and Chung, J.J.* <br>
-ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2012.04406) [[Code]](https://github.com/ethz-asl/navrep)
+ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2012.04406) [[Code]](https://github.com/ethz-asl/navrep) ⭐104
 
 
 * **gym ped sim** <br>
 *Tai, L., Zhang, J., Liu, M. and Burgard, W.* <br>
-ICRA, 2018. [[Paper]](https://arxiv.org/pdf/1710.02543) [[Code]](https://github.com/onlytailei/gym_ped_sim)
+ICRA, 2018. [[Paper]](https://arxiv.org/pdf/1710.02543) [[Code]](https://github.com/onlytailei/gym_ped_sim) ⭐122
 
 
 * **Social Gym** <br>
@@ -801,7 +801,7 @@ arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2303.05584) [[Code]](https://amrl.c
 
 * **RDS Sim** <br>
 *Gonon, D.J., Paez-Granados, D. and Billard, A.* <br>
-IEEE RAL, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/09385856.pdf) [[Code]](https://github.com/epfl-lasa/rds)
+IEEE RAL, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/09385856.pdf) [[Code]](https://github.com/epfl-lasa/rds) ⭐24
 
 
 
@@ -815,47 +815,47 @@ IEEE RAL, 2021. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/09385
 
 * **RVO2** <br>
 *Van Den Berg, J., Guy, S.J., Snape, J. Lin, M. and Manocha, D.* <br>
-[[Code (C++)]](https://github.com/snape/RVO2) [[Code (Python)]](https://github.com/sybrenstuvel/Python-RVO2)
+[[Code (C++)]](https://github.com/snape/RVO2) ⭐944 [[Code (Python)]](https://github.com/sybrenstuvel/Python-RVO2) ⭐234
 
 
 * **UMANS** <br>
 *van Toll, W., Grzeskowiak, F., Gandía, A.L., Amirian, J., Berton, F., Bruneau, J., Daniel, B.C., Jovane, A. and Pettré, J.* <br>
-I3D, 2020. [[Paper]](https://inria.hal.science/hal-02497176/document) [[Code]](https://github.com/amiryanj/UMANS) [[Website]](https://project.inria.fr/crowdscience/project/ocsr/umans/)
+I3D, 2020. [[Paper]](https://inria.hal.science/hal-02497176/document) [[Code]](https://github.com/amiryanj/UMANS) ⭐4 [[Website]](https://project.inria.fr/crowdscience/project/ocsr/umans/)
 
 
 * **PySocialForce** <br>
-*Gao, Y.* [[Code]](https://github.com/yuxiang-gao/PySocialForce)
+*Gao, Y.* [[Code]](https://github.com/yuxiang-gao/PySocialForce) ⭐178
 
 
 * **Deep Social Force** <br>
-*Kreiss, S.* [[Paper]](https://arxiv.org/pdf/2109.12081) [[Code]](https://github.com/svenkreiss/socialforce)
+*Kreiss, S.* [[Paper]](https://arxiv.org/pdf/2109.12081) [[Code]](https://github.com/svenkreiss/socialforce) ⭐141
 
 
 * **CROMOSIM** <br>
-*Faure, S.* [[Code]](https://github.com/sylvain-faure/cromosim) [[Website]](https://www.cromosim.fr/)
+*Faure, S.* [[Code]](https://github.com/sylvain-faure/cromosim) ⭐44 [[Website]](https://www.cromosim.fr/)
 
 
 * **CrowdDynamics** <br>
-*Group, C.D.* [[Code]](https://github.com/crowddynamics/crowddynamics)
+*Group, C.D.* [[Code]](https://github.com/crowddynamics/crowddynamics) ⭐45
 
 
 * **JuPedSim** <br>
-*Dynamics, P.* [[Code]](https://github.com/PedestrianDynamics/jupedsim)
+*Dynamics, P.* [[Code]](https://github.com/PedestrianDynamics/jupedsim) ⭐80
 
 
 * **Mesa** <br>
 *Masad, D. and Kazil, J.L.* <br>
-SciPy, 2015. [[Paper]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=25e969b8cf94d925afc38f6cc678cf22cc523f52) [[Code]](https://github.com/projectmesa/mesa) [[Website]](https://mesa.readthedocs.io/stable/)
+SciPy, 2015. [[Paper]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=25e969b8cf94d925afc38f6cc678cf22cc523f52) [[Code]](https://github.com/projectmesa/mesa) ⭐3658 [[Website]](https://mesa.readthedocs.io/stable/)
 
 
 * **Agents.jl** <br>
 *Datseris, G., Vahdati, A.R. and DuBois, T.C.* <br>
-Simulation, 2024, [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/00375497211068820) [[Code]](https://github.com/JuliaDynamics/Agents.jl) [[Website]](https://juliadynamics.github.io/Agents.jl/stable/)
+Simulation, 2024, [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/00375497211068820) [[Code]](https://github.com/JuliaDynamics/Agents.jl) ⭐905 [[Website]](https://juliadynamics.github.io/Agents.jl/stable/)
 
 
 * **Vadere** <br>
 *Kleinmeier, B., Zönnchen, B., Gödel, M. and Köster, G.* <br>
-arXiv, 2019. [[Paper]](https://arxiv.org/pdf/1907.09520) [[Code]](https://github.com/learup/vadere) [[Website]](https://www.vadere.org/)
+arXiv, 2019. [[Paper]](https://arxiv.org/pdf/1907.09520) [[Code]](https://github.com/learup/vadere) ⭐2 [[Website]](https://www.vadere.org/)
 
 
 
